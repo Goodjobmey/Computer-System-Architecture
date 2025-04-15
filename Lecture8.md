@@ -1,4 +1,4 @@
-# Конспект лекции №8
+# [Конспект лекции №8](https://www.youtube.com/watch?v=Iko9CJl2MwQ)
 ## ISA Overview
 ## Процессор фон-Неймана
 ## Complex Instruction Set Computer
