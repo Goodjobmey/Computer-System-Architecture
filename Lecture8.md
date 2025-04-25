@@ -61,7 +61,7 @@ ISA определяет доступные команды процессора,
 
 ## Процессор фон-Неймана
 
-![image](https://gitlab.se.ifmo.ru/computer-systems/csa-rolling/-/raw/master/fig/von-neumann-example.png)
+![](https://gitlab.se.ifmo.ru/computer-systems/csa-rolling/-/raw/master/fig/von-neumann-example.png)
 
 ## Complex Instruction Set Computer
 CISC - это компьютерная архитектура, в которой отдельные инструкции могут выполнять несколько операций низкого уровня (загрузка из памяти, арифметическая операция и сохранение в памяти) или способны выполнять многошаговые операции или режимы адресации в рамках отдельных инструкций.
