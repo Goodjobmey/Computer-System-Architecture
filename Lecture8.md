@@ -24,7 +24,6 @@ ISA определяет доступные команды процессора,
 - механизмы обработки прерываний и исключений,
 - методы ввода и вывода.
 
-![image](https://github.com/user-attachments/assets/c0f296af-4207-4a55-a6b1-bf187fa0c935)
 ![image](https://gitlab.se.ifmo.ru/computer-systems/csa-rolling/-/raw/master/fig/isa-as-interface.png)
 
 
