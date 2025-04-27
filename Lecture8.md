@@ -328,7 +328,7 @@ No instruction set computing (NISC) - это вычислительная арх
 - **CGRA-процессоры (Coarse-Grained Reconfigurable Architectures).** Эти архитектуры потенциально представляют будущее вычислительной техники. Мы коснёмся этой темы ближе к концу семестра, в рамках проекта по разработке САПРов для спецпроцессоров.
 
 ## Ссылки
----
+
 [Instruction Set Architecture](https://edizsaykol.weebly.com/uploads/9/8/6/5/9865252/lecture_02_architecture_overview.pdf)
 
 [Microcode](https://en.wikipedia.org/wiki/Microcode#Microcode)
