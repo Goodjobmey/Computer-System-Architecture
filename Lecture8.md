@@ -329,7 +329,7 @@ No instruction set computing (NISC) - это вычислительная арх
 
 ## Ссылки
 ---
-[Instruction Set Architecture](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://edizsaykol.weebly.com/uploads/9/8/6/5/9865252/lecture_02_architecture_overview.pdf)
+[Instruction Set Architecture](https://edizsaykol.weebly.com/uploads/9/8/6/5/9865252/lecture_02_architecture_overview.pdf)
 
 [Microcode](https://en.wikipedia.org/wiki/Microcode#Microcode)
 
