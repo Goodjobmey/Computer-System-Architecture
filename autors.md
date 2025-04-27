@@ -2,6 +2,6 @@ title: "ISA Overview. Пример процессора фон Неймана. C
 
 subtitle: "Конспект лекции №8"
 
-authors: "Olga Kuzmina, Maria Krikorova"
+authors: "Ольга Кузьмина, Мария Крикорова"
 
 date: 27.04.2025
