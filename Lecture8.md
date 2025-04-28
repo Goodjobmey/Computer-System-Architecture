@@ -27,6 +27,7 @@
 [Instruction Set Architecture](https://edizsaykol.weebly.com/uploads/9/8/6/5/9865252/lecture_02_architecture_overview.pdf)
 
 [Архитектура Фон-Неймана, курс лекций "Архитектура ЭВМ и язык Ассемблера" факультета Вычислительной математики и кибернетики Московского Государственного университета им. М. В. Ломоносова](http://arch32.cs.msu.su/Text/Chapter_02.pdf)
+
 ---
 
 ## Аккумуляторная архитектура
