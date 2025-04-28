@@ -137,8 +137,8 @@ store Y <- ACC
 **Пример системы команд и линейной функции Y = A * X + B:**
 
 ```
-mul R1 <- A * B    ; reg-to-mem
-add Y <- R1 + C    ; 2 operands 
+mul R1 <- A * X    ; reg-to-mem
+add Y <- R1 + B    ; 2 operands 
 ```
 
 
@@ -555,6 +555,7 @@ store Y <- R4
 Ссылки:
 
 [Microcode](https://en.wikipedia.org/wiki/Microcode#Microcode)
+
 ---
 
 
